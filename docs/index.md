@@ -1,3 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-5">
+	<title>Numismática Perú</title>
+	<meta name="author" content="Josue">
+	<link rel="icon" sizes="192x192" href="https://raw.githubusercontent.com/JosueMejia01/numismatica-peru/main/machu-picchu.ico">
+</head>
+  <body><center><h1 id="element-1">Bienvenido a Numismática del Perú</h1>
+  	<p>Hola</p>
+  </center>  
+</body>
+</html>
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/JosueMejia01/numismatica-peru/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
